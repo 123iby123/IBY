@@ -1,4 +1,5 @@
 # IBY
+<!DOCTYPE html>
 <html>
   <head>
     <title>My webpage!</title>
